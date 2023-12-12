@@ -12,5 +12,5 @@ This project involves sentiment analysis of financial market-related snippets fr
 ### Setting Up the Environment
 1. **Clone the repository:**
    ```bash
-   git clone [Your repository URL]
+   git clone https://github.com/liambeckman199/DailyShot-Indicator-OpenAI)https://github.com/liambeckman199/DailyShot-Indicator-OpenAI
    cd DailyShot-Indicator-OpenAI
