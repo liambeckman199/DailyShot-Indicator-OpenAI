@@ -1,7 +1,7 @@
 # DailyShot-Indicator-OpenAI
 
 ## Overview
-This project involves sentiment analysis of financial market-related snippets from the DailyShot news website, specifically focusing on predicting the sentiment towards the S&P 500 market performance. It leverages OpenAI's GPT models and the FinancialBERT model for sentiment classification.
+This project involves classifying the sentiment of financial equity-related snippets from articles by a news provider called DailyShot, and validated the sentiment against historical S&P 500 returns. It leverages OpenAI's GPT models and the FinancialBERT model for sentiment classification.
 
 ## Installation
 
