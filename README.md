@@ -16,7 +16,9 @@ This project involves sentiment analysis of financial market-related snippets fr
    cd DailyShot-Indicator-OpenAI
    
 ### Install required packages
-```bash pip install -r requirements.txt
+
+```bash
+pip install -r requirements.txt
 
 ### OpenAI API Key
 You need an OpenAI API key to run this project. Obtain it from [OpenAI](https://openai.com/).
