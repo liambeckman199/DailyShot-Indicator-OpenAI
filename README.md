@@ -1,0 +1,1 @@
+# DailyShot-Indicator-OpenAI
