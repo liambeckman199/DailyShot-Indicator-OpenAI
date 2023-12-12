@@ -14,3 +14,20 @@ This project involves sentiment analysis of financial market-related snippets fr
    ```bash
    git clone https://github.com/liambeckman199/DailyShot-Indicator-OpenAI
    cd DailyShot-Indicator-OpenAI
+   
+### Install required packages
+pip install -r requirements.txt
+
+### OpenAI API Key
+You need an OpenAI API key to run this project. Obtain it from [OpenAI](https://openai.com/).
+
+Set the API key as an environment variable:
+export OPENAI_API_KEY='your-api-key'
+
+## Running the Jupyter Notebook
+Launch Jupyter Notebook in the project directory and open the .ipynb file:
+
+jupyter notebook
+
+### Usage
+The main notebook DailyShot Indicator-OpenAI.ipynb contains all the code and documentation to run the sentiment analysis models.
