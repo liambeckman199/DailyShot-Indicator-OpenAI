@@ -25,12 +25,17 @@ pip install -r requirements.txt
 You need an OpenAI API key to run this project. Obtain it from [OpenAI](https://openai.com/).
 
 Set the API key as an environment variable:
+
+```bash
 export OPENAI_API_KEY='your-api-key'
+```
 
 ## Running the Jupyter Notebook
 Launch Jupyter Notebook in the project directory and open the .ipynb file:
 
+```bash
 jupyter notebook
+```
 
 ### Usage
 The main notebook DailyShot Indicator-OpenAI.ipynb contains all the code and documentation to run the sentiment analysis models.
