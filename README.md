@@ -19,6 +19,7 @@ This project involves sentiment analysis of financial market-related snippets fr
 
 ```bash
 pip install -r requirements.txt
+```
 
 ### OpenAI API Key
 You need an OpenAI API key to run this project. Obtain it from [OpenAI](https://openai.com/).
